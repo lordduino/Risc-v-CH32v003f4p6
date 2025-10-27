@@ -14,11 +14,7 @@ Carregador usado: WCH LinkE CH32V003 EVT MCU Download Depurador RISC-V Arquitetu
 
 
 Informações Gerais
-A série CH32V003 é um microcontrolador de uso geral de nível industrial projetado com base no núcleo Qingke RISC-V2A, 
-suportando uma frequência de sistema de 48 MHz.Possui uma ampla faixa de tensão, depuração de fio único, 
-baixo consumo de energia e embalagem ultrapequena.A série CH32V003 integra um conjunto de controlador DMA, 
-um conversor analógico-digital ADC de 10 bits, um comparador de amplificador operacional, vários temporizadores, 
-bem como interfaces de comunicação padrão como USART, IIC, SPI, etc.
+A série CH32V003 é um microcontrolador de uso geral de nível industrial projetado com base no núcleo Qingke RISC-V2A, suportando uma frequência de sistema de 48 MHz.Possui uma ampla faixa de tensão, depuração de fio único, baixo consumo de energia e embalagem ultrapequena.A série CH32V003 integra um conjunto de controlador DMA, um conversor analógico-digital ADC de 10 bits, um comparador de amplificador operacional, vários temporizadores, bem como interfaces de comunicação padrão como USART, IIC, SPI, etc.
 
 Características do produto:
 Processador Qingke RISC-V2A de 32 bits, suportando aninhamento de interrupção de 2 níveis
@@ -38,8 +34,10 @@ ID de chip exclusivo de 64 bits
 Interface de depuração serial de fio único
 
 
+
 Links:
-Compatilbilizar IDE Arduino com Risc V CH32:
+
+Compatilbilizar IDE Arduino com Risc-V CH32:
 https://github.com/openwch/board_manager_files/raw/main/package_ch32v_index.json
 
 Datasheet CH32V003:
@@ -50,4 +48,5 @@ http://nic.vajn.icu/PDF/WCH-IC/RISC-V/CH32V003_RM.pdf
 
 Fabricante wch-ic: 
 https://wch-ic.com/products/CH32V003.html?ref=ch405-labs.com
+
 
